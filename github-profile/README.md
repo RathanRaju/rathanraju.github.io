@@ -8,42 +8,16 @@
 
 🌐 My interactive CV lives at [rathanraju.pages.dev](https://rathanraju.pages.dev).
 
-Looking to hire? Well, you have come to the right place. I'm open to UK and international opportunities, and here is the skill set I have at the moment (the list keeps growing).
+Building a data team? I'd love to hear about it. I'm open to roles in the UK and abroad, and here's a quick look at what I work with day to day:
 
-```text
-Programming & Query Languages
-* SQL
-* Python
-* DAX
-
-Data Visualisation Tools
-* Power BI
-* Tableau
-* Excel / Power Query
-
-Data Platform & ETL Tools
-* Microsoft Fabric
-* Azure Data Factory
-* Azure Synapse
-* Git & CI/CD
-
-Data Modelling
-* Dimensional modelling & star schemas
-* Semantic layers & governed metric definitions
-* Tested transformations
-
-AI & Machine Learning
-* Forecasting
-* Anomaly detection
-* NLP
-* AI data agents
-
-Project Controls Domain
-* Earned value (CPI / SPI) & variance analysis
-* Cost control (budget, AFC, CVR)
-* Primavera P6 schedule data
-* Change control & baseline governance
-```
+| Area | What I work with |
+| --- | --- |
+| 💻 **Languages** | SQL, Python, DAX |
+| 📊 **BI & visualisation** | Power BI, Tableau, Excel / Power Query |
+| ☁️ **Platform & pipelines** | Microsoft Fabric, Azure Data Factory, Azure Synapse, Git & CI/CD |
+| 🧱 **Data modelling** | Star schemas, semantic layers, governed metric definitions, tested transformations |
+| 🤖 **AI & machine learning** | Forecasting, anomaly detection, NLP, AI data agents |
+| 🏗️ **Project controls** | Earned value (CPI / SPI), variance analysis, cost control (budget, AFC, CVR), Primavera P6 data, change control, baseline governance |
 
 I'm certified in Microsoft PL-300 (Power BI Data Analyst), DP-203 (Azure Data Engineer Associate) and DP-600 (Fabric Analytics Engineer Associate), and I hold a Lean Six Sigma Green Belt.
 
