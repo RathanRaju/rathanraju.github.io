@@ -1611,7 +1611,7 @@ function countUp(el){
   if(!isFinite(target) || target === 0) return;
   const dur = 900, t0 = performance.now();
   const step = now=>{
-    const k = Math.min(1, (now-t0)/dur);
+    const k = Math.max(0, Math.min(1, (now-t0)/dur));   /* a frame can be stamped before t0 */
     const e = 1 - Math.pow(1-k, 3);
     el.textContent = m[1] + Math.round(target*e).toLocaleString() + m[3];
     if(k < 1) requestAnimationFrame(step); else el.textContent = raw;
